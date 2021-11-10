@@ -1,0 +1,2 @@
+# miner1
+test
